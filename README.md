@@ -84,12 +84,12 @@ It is comprised of six members, who are elected by Contributors.
 
 The current Architecture Committee members are:
 
-* Liu Jiang       (@jiangliu)      Alibaba
-* Liu Wei         (@liuw)          Microsoft
-* Michael Zhao    (@michael2012z)  ARM
-* Robert Bradford (@rbradford)     Intel
-* Samuel Ortiz    (@sameo)         Intel
-* Sergio Lopez    (@slp)           Red Hat
+* Liu Jiang       ([@jiangliu](https://github.com/jiangliu))      Alibaba
+* Liu Wei         ([@liuw](https://github.com/liuw))          Microsoft
+* Michael Zhao    ([@michael2012z](https://github.com/michael2012z))  ARM
+* Robert Bradford ([@rbradford](https://github.com/rbradford))     Intel
+* Samuel Ortiz    ([@sameo](https://github.com/sameo))         Intel
+* Sergio Lopez    ([@slp](https://github.com/slp))           Red Hat
 
 ### Elections
 
