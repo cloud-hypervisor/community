@@ -88,7 +88,7 @@ The current Architecture Committee members are:
 * Liu Wei         ([@liuw](https://github.com/liuw))          Microsoft
 * Michael Zhao    ([@michael2012z](https://github.com/michael2012z))  ARM
 * Robert Bradford ([@rbradford](https://github.com/rbradford))     Intel
-* Samuel Ortiz    ([@sameo](https://github.com/sameo))         Intel
+* Samuel Ortiz    ([@sameo](https://github.com/sameo))         Apple
 * Sergio Lopez    ([@slp](https://github.com/slp))           Red Hat
 
 ### Elections
