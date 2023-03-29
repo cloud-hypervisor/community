@@ -80,15 +80,15 @@ contributions and leadership track record.
 
 The Architecture Committee is responsible for architectural decisions and
 making final decisions if Maintainers for a particular project disagree.
-It is comprised of six members, who are elected by Contributors.
+It is comprised of five members, who are elected by Contributors.
 
 The current Architecture Committee members are:
 
 * Liu Jiang       ([@jiangliu](https://github.com/jiangliu))      Alibaba
 * Liu Wei         ([@liuw](https://github.com/liuw))          Microsoft
 * Michael Zhao    ([@michael2012z](https://github.com/michael2012z))  ARM
-* Robert Bradford ([@rbradford](https://github.com/rbradford))     Intel
-* Samuel Ortiz    ([@sameo](https://github.com/sameo))         Apple
+* Robert Bradford ([@rbradford](https://github.com/rbradford))     Rivos
+* Samuel Ortiz    ([@sameo](https://github.com/sameo))         Rivos
 
 ### Elections
 
